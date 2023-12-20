@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917534807353",
+    "project_id": "adminshop-d435e",
+    "storage_bucket": "adminshop-d435e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917534807353:android:0ea457c63d178f880bc4e8",
+        "android_client_info": {
+          "package_name": "com.chh.adminshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzhwbdavwCv9Kbj_ARdTsmmkXTxv_6o1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
